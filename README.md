@@ -20,9 +20,9 @@ IMPORTANT HARDWARE INFORMATION
 ==================================================
 |Hardware | Information |
 --------:|:--------------
-Flash    | null
+Flash    | unknown
 LCD      | hx8394F_HD720p_video_BOE
-TouchPanel | Focaltech, FT5336, 0x4
+TouchPanel | ft5x06_720p or ist30xx
 Camera_Main | s5k3l8, O-film
 Camera_Sub | ov5670_q5v41b, O-film
 Accelerometer | bma2x2
